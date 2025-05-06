@@ -1,0 +1,37 @@
+body {
+  background: #ffeadb;
+}
+p {
+  color: black;
+  font-family: sans-serif;
+}
+h1 {
+  font-weight: bold;
+  color: red;
+  font-family: sans-serif;
+  text-align: center;
+}
+h2 {
+  font-family: sans-serif;
+  font-size: 22px;
+}
+h3 {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  text-align: center;
+}
+h4 {
+  font-weight: normal;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+.img1 {
+  height: 200px;
+}
+.img2 {
+  width: 500px;
+}
+.img3 {
+  height: 400px;
+}
